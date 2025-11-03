@@ -1,6 +1,12 @@
-# Conducting-a-security-audit-for-Botium-toys-Mock-company-
-Executive summary:  Checking security control and compliance of the company following NIST Cybersecurity Framework,To provide overview of risk that company might experience due to it current security posture.
-Tools:Using a control and compliance checklist.
-The challenge:Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
-Goal: This internal audit is to help better secure the company’s infrastructure and help them identify and mitigate potential risks, threats, or vulnerabilities to critical assets. The audit is also to ensure that they comply with regulations related to internally processing and accepting online payments and conducting business in the European Union (E.U.). 
-Action: Controls-and-compliance-checklist.docx
+# Full Scope Risk Assessment & Control Audit (Botium Toys)
+Executive summary: This project demonstrates a full-scope, four-phase security audit focusing on risk quantification and control assessment. Key deliverables include a Risk Register scoring threats by likelihood and severity, and a Control Checklist identifying critical gaps in the environment's security posture.
+Tools:Risk Assessment & GRC (Governance, Risk, and Compliance),NIST SP CSF (Framework),Qualitative Risk Matrix (Likelihood/Severity),Microsoft Word.
+The challenge: Goal-Identify the two most critical control gaps that expose Botium Toys' customer data and reduce system uptime.
+Context:Audit of a simulated e-commerce SMB (Small-to-Medium Business) environment. The assessment covered controls related to access management, data recovery, and least privilege to establish a security baseline.
+Action:Asset Classification	Classified key assets (e.g., Customer Database, Data retention and storage) based on their Confidentiality, Integrity, and Availability (CIA) triad requirements.
+Control Assessment, Developed and executed a Compliance Checklist to evaluate existing controls (e.g., 'Do employees follow the principle of Least Privilege?').
+Risk Scoring, Used a 5x5 Likelihood-Severity Matrix to calculate the inherent and residual risk scores for potential threats (e.g., unauthorized access, password policies).
+Documented all findings in the final Control and Compliance Checklist 
+Result and Impact: Key findings-The audit confirmed a High Risk score associated with the lack of a formalized Disaster Recovery Plan (DRP), which would lead to unrecoverable data loss in a major incident.
+Mitigation/Recommendation: Recommended the immediate creation of an asset inventory and implementation of Role-Based Access Control to enforce least privilege access.
+Artifacts:
