@@ -9,4 +9,10 @@ Risk Scoring, Used a 5x5 Likelihood-Severity Matrix to calculate the inherent an
 Documented all findings in the final Control and Compliance Checklist 
 Result and Impact: Key findings-The audit confirmed a High Risk score associated with the lack of a formalized Disaster Recovery Plan (DRP), which would lead to unrecoverable data loss in a major incident.
 Mitigation/Recommendation: Recommended the immediate creation of an asset inventory and implementation of Role-Based Access Control to enforce least privilege access.
-Artifacts:
+Artifacts: All evidence files generated during the audit are available below for review.
+# Botium Toys_ Risk assessment report.md
+The high-level executive report covering scope, goals, current assets, and final conclusions.
+# controls_checklist.md..md
+The full assessment detailing Yes/No compliance status and rationale for Foundational Security, PCI DSS, GDPR, and SOC.
+
+
