@@ -1,6 +1,6 @@
 # Full Scope Risk Assessment & Control Audit (Botium Toys)
-Executive summary: This project demonstrates a full-scope, four-phase security audit focusing on risk quantification and control assessment. Key deliverables include a Risk Register scoring threats by likelihood and severity, and a Control Checklist identifying critical gaps in the environment's security posture.
-Tools:Risk Assessment & GRC (Governance, Risk, and Compliance),NIST SP CSF (Framework),Qualitative Risk Matrix (Likelihood/Severity),Microsoft Word.
+Executive summary: This project demonstrates a full-scope, four-phase security audit focusing on risk quantification and control assessment. Key deliverables include a Risk Assessment report, and a Control Checklist identifying critical gaps in the environment's security posture.
+Tools:Risk Assessment & GRC (Governance, Risk, and Compliance),NIST CSF (Framework),Qualitative Risk Matrix (Likelihood/Severity),Microsoft Word(Used for final report generation and formatting).
 The challenge: Goal-Identify the two most critical control gaps that expose Botium Toys' customer data and reduce system uptime.
 Context:Audit of a simulated e-commerce SMB (Small-to-Medium Business) environment. The assessment covered controls related to access management, data recovery, and least privilege to establish a security baseline.
 Action:Asset Classification	Classified key assets (e.g., Customer Database, Data retention and storage) based on their Confidentiality, Integrity, and Availability (CIA) triad requirements.
